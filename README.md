@@ -1,9 +1,9 @@
 # cursoemvideo
 Exercício Python  - Média Aritmética
 
-n=int(input(digite um numero:))
+n=int(input('digite um numero:'))
 
-n1=int(input(digite outro valor:))
+n1=int(input('digite outro valor:'))
 
 media=(n + n1 )/2\n
 
